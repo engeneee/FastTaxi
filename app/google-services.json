@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063463383784",
+    "project_id": "fast-taxi-5bd6e",
+    "storage_bucket": "fast-taxi-5bd6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063463383784:android:f7e69ca859b2e9a09dcf5d",
+        "android_client_info": {
+          "package_name": "com.example.fasttaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063463383784-4p35gv6ueoqe1gscdje0pb327tr43htu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fasttaxi",
+            "certificate_hash": "f4cc6dfcca039fc4cf9530202a393de9f55bdd8b"
+          }
+        },
+        {
+          "client_id": "1063463383784-onajdtbi71itaic4nvgebi6073tt886v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjNQtSZ6YRdJ_vlQLFm7OcoL698_jivtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063463383784-onajdtbi71itaic4nvgebi6073tt886v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

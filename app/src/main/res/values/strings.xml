@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FastTaxi</string>
+    <string name="driverBtn">Водитель</string>
+    <string name="customerBtn">Клиент</string>
+    <string name="email">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="signIn">Войти</string>
+    <string name="signUp">Регистрация</string>
+    <string name="driverStatus">Вход для водителей</string>
+    <string name="createQuestion">Ещё нет аккаунта?</string>
+    <string name="title_activity_drivers_map">DriversMapActivity</string>
+    <string name="title_activity_customer_map">CustomerMapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
